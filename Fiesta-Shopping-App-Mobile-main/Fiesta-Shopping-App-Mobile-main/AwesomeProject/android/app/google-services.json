@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1004261782493",
+    "project_id": "fiestaproject-713d6",
+    "storage_bucket": "fiestaproject-713d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004261782493:android:2a71506cb1d6a4f0e57c34",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004261782493-0qg5nocugdrhd13lkmosu86v8dtlkdkg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesomeproject",
+            "certificate_hash": "3b3332019189626f5cdbd559ced49a00f34ee69c"
+          }
+        },
+        {
+          "client_id": "1004261782493-4bn263avrm5vn8eb1dgaup75pttsldlo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesomeproject",
+            "certificate_hash": "3a4b6ee52d058bdd0cef35462f45525309dd649b"
+          }
+        },
+        {
+          "client_id": "1004261782493-kbjasm5vcu5vid4d2q587s7279138lj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.awesomeproject",
+            "certificate_hash": "95a8733f68a89330f56e83d442651d55d20517b4"
+          }
+        },
+        {
+          "client_id": "1004261782493-85h6acr55sfjv0usi1o98s62h6n3c6ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp8l7LjVC886eonWKNpTlO1ayJcFXofaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004261782493-85h6acr55sfjv0usi1o98s62h6n3c6ev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

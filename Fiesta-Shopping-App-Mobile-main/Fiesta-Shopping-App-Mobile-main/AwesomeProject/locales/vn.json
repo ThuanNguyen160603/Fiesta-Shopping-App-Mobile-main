@@ -1,0 +1,175 @@
+{
+    "__COMMENT component":"Button",
+    "Button":"Nút",
+
+    "__COMMENT CardListComponent": "CardList",
+    "Account Number": "Số tài khoản",
+    "Name": "Tên",
+    "Expired Date":"Ngày hết hạn",
+
+"__COMMENT HeaderComponent": "Đây là comment cho screen language",
+    "Search results": "Kết quả tìm kiếm",
+
+"__COMMENT ItemProductComponent": "Đây là comment cho screen language",
+    "Qty": "S.L",
+    "Rate": "Đ.giá",
+
+"__COMMENT SearchComponent": "Đây là comment cho screen language",
+    "Search": "Tìm kiếm",
+
+    "change-language":"Chuyển đổi ngôn ngữ trên ứng dụng của bạn.",
+    "welcome":"Chào mừng bạn đến với ứng dụng của tôi",
+    
+"__COMMENT languageScreen":"This is language Screen Word",
+    "language":"Ngôn ngữ",
+    
+
+"__COMMENT userAccessScreen":"This is language Screen Word",
+    "Sign in":"Đăng nhập",
+    "Sign up":"Đăng ký",
+    "lorem isum":"Phong cách là một cách để thể hiện con người bạn mà không cần phải nói, nó về sự thanh lịch vượt thời gian và tính cá nhân.",
+
+"__COMMENT SignInScreen":"This is language Screen Word",
+    "Welcome":"Chào mừng",
+    "Sign-in-remind":"Hãy đăng nhập hoặc đăng ký trước khi tiếp tục",
+    "email-placeholder":"Điền email của bạn",
+    "password-placeholder":"Điền mật khẩu của bạn",
+"Password":"Mật khẩu",
+
+"__COMMENT SignUpScreen":"This is language Screen Word",
+    "Create a new account":"Tạo tài khoản mới",
+    "Your name":"Tên của bạn",
+    "Name-required":"Ít nhất 6 kí tự, có khoảng trắng và kí tự in hoa",
+    "Email-required":"Enter a valid email address",
+    "password-required": "",
+    "At least 8 characters long.":"Tối thiểu 8 kí tự",
+    "Contains at least one uppercase letter.":"Chứa ít nhất 1 kí tự in hoa",
+    "Contains at least one lowercase letter.":"Chứa ít nhất 1 kí tự thường",
+    "Contains at least one digit.":"Chứa ít nhất một kí tự số",
+    "Contains at least one special character (e.g., !@#$%^&*).":"Chứa ít nhất 1 kí tự đặc biệt ví dụ (!@#$%^&*).",
+    "Confirm Password":"Xác nhận mật khẩu",
+    "Must match the password":"Kiểm tra lại mật khẩu",
+    "sign-up-terms":"Bằng cách tạo tài khoản, bạn đồng ý với các điều khoản và điều kiện của chúng tôi.",  
+
+"__COMMENT CartScreen":"This is language Screen Word",
+    "Subtotal": "Tổng phụ",
+    "Shipping": "Vận chuyển",
+    "Bag Total": "Tổng giỏ hàng",
+    "Proceed to checkout": "Tiến hành thanh toán",
+    "Select All": "Chọn tất cả",
+    "Delete": "Xóa",
+    "Unselect All": "Bỏ chọn tất cả",
+    "No available items in cart": "Không có sản phẩm nào trong giỏ hàng",
+    "Please add some ^.^": "Vui lòng thêm một số sản phẩm ^.^",
+    "Out of stock":"Hết hàng",
+
+
+"__COMMENT FilterProductScreen":"This is language Screen Word",
+    "Filter": "Bộ lọc",
+    "No Available List": "Không có danh sách có sẵn",
+
+"__COMMENT HomeScreen":"This is language Screen Word",
+    "Our Fashions App": "Đến với ứng dụng thời trang của chúng tôi",
+    "Latest products":"Mới nhất",
+    "Best rating products":"Đánh giá cao nhất",
+    "Best sold products":"Bán chạy nhất",
+    "Categories":"Danh mục",
+
+
+    "__COMMENT OrderListScreen":"This is language Screen Word",
+    "Address": "Đ.Chỉ",
+    "Status":"T.Thái",
+    "Last update":"C.nhật lần cuối",
+    "No available order":"Không có đơn hàng",
+    "Order List":"Danh sách đơn hàng",
+
+    "__COMMENT OrderScreen":"This is language Screen Word",
+    "Estimated arrived in": "T.gian đến ước tính",
+    "From":"Từ",
+    "To":"Đến",
+    "Order Detail":"Chi tiết đơn hàng",
+    "Cancel order":"Hủy đơn hàng",
+
+    "__COMMENT PaymentScreen":"This is language Screen Word",
+    "Payment Method": "Phương thức thanh toán",
+    "Add card":"Thêm thẻ (Visa)",
+    
+    "__COMMENT ProductDetailScreen":"This is language Screen Word",
+    "in stock": "trong kho",
+    "Description":"Mô tả",
+    "See more":"Xem thêm",
+    "See less":"Thu gọn",
+    "Total Price":"Giá tiền",
+    "Add to cart":"Thêm vào giỏ",
+   
+
+
+"__COMMENT SearchModalScreen":"This is language Screen Word",
+    "Price Range":"Mức giá",
+    "Sort By Price":"Sắp xếp theo giá",
+    "Sort By Sold":"Sắp xếp theo số lượng đã bán",
+    "Sort By Rating":"Sắp xếp theo đánh giá",
+    "Apply":"Apply",
+    "Reset":"Reset",
+     "Ascending":"Tăng dần",
+    "Descending":"Giảm dần",
+
+"__COMMENT SearchScreen":"This is language Screen Word",
+    "History search":"Lịch sử tìm kiếm",
+
+    "__COMMENT EditCardScreen":"This is language Screen Word",
+    "Account Name":"Tên số tài khoản",
+
+
+"__COMMENT MyCardScreen":"This is language Screen Word",
+    "Visa card list":"Danh sách thẻ Visa",
+    "No available cards":"Không có thẻ có sẵn",
+
+    
+ "__COMMENT Gender":"This is language Screen Word",
+ "Male":"Nam",
+ "Female":"Nữ",
+
+ "__COMMENT SettingScreen":"This is language Screen Word",
+    "Personal Detail": "Chi tiết cá nhân",
+    "Upload image": "Tải lên hình ảnh",
+    "Enter a valid phone number": "Nhập số điện thoại hợp lệ",
+    "Update": "Cập nhật",
+    "Settings": "Cài đặt",
+    "Notification": "Thông báo",
+    "Help Center": "Trung tâm trợ giúp",
+    "Log out": "Đăng xuất",
+    "phone-number-placeholder": "Nhập số điện thoại của bạn",
+    "phone-number-required": "Nhập số điện thoại hợp lệ",
+    "PhoneNumber": "Số điện thoại",
+
+
+    
+"__COMMENT ShippingAddressScreen":"This is language Screen Word",
+"No address pls add some ...": "Chưa có địa chỉ, vui lòng thêm địa chỉ ...",
+"ADD NEW ADDRESS": "THÊM ĐỊA CHỈ MỚI",
+"UPDATE THE ADDRESS": "CẬP NHẬT ĐỊA CHỈ",
+"__COMMENT AddAddressModal": "Đây là ngôn ngữ màn hình",
+"address-name-placeholder": "Nhập tên địa chỉ của bạn",
+"street-name-placeholder": "Nhập tên đường của bạn",
+"house-number-placeholder": "Nhập số nhà của bạn",
+"Submit": "Xác nhận",
+"Select city": "Chọn thành phố",
+"Select state": "Chọn bang",
+"Select country": "Chọn quốc gia",
+
+
+"__COMMENT ProfileScreen":"This is language Screen Word",
+    "My Orders": "Đơn hàng của tôi",
+    "Shipping Address": "Địa chỉ giao hàng",
+    "Payment method": "Phương thức thanh toán",
+    "FAQs": "Câu hỏi thường gặp",
+    "Privacy Policy": "Chính sách bảo mật",
+
+  "__COMMENT BottomNavigationName":"This is language Screen Word",
+ 
+    "Home":"T.Chủ",
+    "Cart":"G.hàng",
+    "Profile":"T.tin cá nhân"
+
+}

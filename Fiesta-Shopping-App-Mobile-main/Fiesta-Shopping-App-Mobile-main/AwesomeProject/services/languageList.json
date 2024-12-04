@@ -1,0 +1,12 @@
+{
+    "en": {
+        "name": "united-states-of-america",
+        "nativeName": "English (US)",
+        "isoCode":"US"
+    },
+    "vn":{
+        "name":"vietnam",
+        "nativeName":"Việt Nam",
+        "isoCode":"VN"
+    }
+}

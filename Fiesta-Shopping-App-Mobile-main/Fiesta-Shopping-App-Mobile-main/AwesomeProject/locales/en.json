@@ -1,0 +1,170 @@
+{
+    "__COMMENT ButtonComponent": "Button",
+    "Button": "Button",
+
+"__COMMENT CardListComponent": "CardList",
+    "Account Number": "Account Number",
+    "Name": "Name",
+    "Expired Date":"Expired Date",
+
+"__COMMENT HeaderComponent": "Đây là comment cho screen language",
+    "Search results": "Search results",
+
+"__COMMENT ItemProductComponent": "Đây là comment cho screen language",
+    "Qty": "Qty",
+    "Rate": "Rate",
+"__COMMENT SearchComponent": "Đây là comment cho screen language",
+    "Search": "Search",
+
+    "change-language": "Change your app language.",
+    "welcome": "Welcome to my app",
+"__COMMENT language": "Đây là comment cho screen language",
+    "language": "Languages",
+
+"__COMMENT userAccessScreen":"This is language Screen Word",
+    "Sign in":"Sign in",
+    "Sign up":"Sign up",
+    "lorem isum":"Style is a way to say who you are without having to speak, about timeless elegance and individuality.",
+
+"__COMMENT SignInScreen":"This is language Screen Word",
+    "Welcome":"Welcome",
+    "Sign-in-remind":"Please login or sign up to continue our app",
+    "email-placeholder":"Enter your email",
+    "password-placeholder":"Enter your password",
+    "Password":"Password",
+
+"__COMMENT SignUpScreen":"This is language Screen Word",
+    "Create a new account":"Create a new account",
+    "Your name":"Your name",
+    "Name-required":"Minimum 6 characters, spaces and Capital letters",
+    "Email-required":"Enter a valid email address",
+    "password-required": "",
+    "At least 8 characters long.":"At least 8 characters long.",
+    "Contains at least one uppercase letter.":"Contains at least one uppercase letter.",
+    "Contains at least one lowercase letter.":"Contains at least one lowercase letter.",
+    "Contains at least one digit.":"Contains at least one digit.",
+    "Contains at least one special character (e.g., !@#$%^&*).":"Contains at least one special character (e.g., !@#$%^&*).",
+    "Confirm Password":"Confirm Password",
+    "Must match the password":"Must match the password",
+    "sign-up-terms":"By creating an account you agree with our terms & conditions.",  
+
+
+"__COMMENT CartScreen":"This is language Screen Word",
+    "Subtotal":"Subtotal",
+    "Shipping":"Shipping",
+    "Bag Total":"Bag Total",
+    "Proceed to checkout":"Proceed to checkout",
+    "Select All":"Select All",
+    "Delete ":"Delete",
+    "Unselect All":"Unselect All",
+    "No available items in cart":"No available items in cart",
+    "Please add some ^.^":"Please add some ^.^",
+    "Out of stock":"Out of stock",
+
+
+
+    "__COMMENT FilterProductScreen":"This is language Screen Word",
+    "Filter": "Filter",
+    "No Available List": "No Available List",
+
+    "__COMMENT HomeScreen":"This is language Screen Word",
+    "Our Fashions App": "Our Fashions App",
+    "Latest products":"Latest products",
+    "Best rating products":"Best rating products",
+    "Best sold products":"Best sold products",
+    "Categories":"Categories",
+
+    "__COMMENT OrderListScreen":"This is language Screen Word",
+    "Address": "Address",
+    "Status":"Status",
+    "Last update":"Last update",
+    "No available order":"No available order",
+    "Order List":"Order List",
+
+    "__COMMENT OrderScreen":"This is language Screen Word",
+    "Estimated arrived in": "Estimated arrived in",
+    "From":"From",
+    "To":"To",
+    "Order Detail":"Order Detail",
+    "Cancel order":"Cancel order",
+
+    "__COMMENT PaymentScreen":"This is language Screen Word",
+    "Payment Method": "Payment Method",
+    "Add card":"Add card (Visa)",
+
+
+    "__COMMENT ProductDetailScreen":"This is language Screen Word",
+    "in stock": "in stock",
+    "Description":"Description",
+    "See more":"See more",
+    "See less":"See less",
+    "Total Price":"Total Price",
+    "Add to cart":"Add to cart",
+
+
+    
+"__COMMENT SearchModalScreen":"This is language Screen Word",
+    "Price Range":"Price Range",
+    "Sort By Price":"Sort By Price",
+    "Sort By Sold":"Sort By Sold",
+    "Sort By Rating":"Sort By Rating",
+    "Apply":"Apply",
+    "Reset":"Reset",
+    "Ascending":"Ascending",
+    "Descending":"Descending",
+
+"__COMMENT SearchScreen":"This is language Screen Word",
+    "History search":"History search",
+
+
+"__COMMENT EditCardScreen":"This is language Screen Word",
+    "Account Name":"Account Name",
+
+"__COMMENT MyCardScreen":"This is language Screen Word",
+    "Visa card list":"Visa card list",
+    "No available cards":"No available cards",
+
+"__COMMENT Gender":"This is language Screen Word",
+    "Male":"Male",
+    "Female":"Female",
+
+"__COMMENT SettingScreen":"This is language Screen Word",
+    "Personal Detail":"Personal Detail",
+    "Upload image":"Upload image",
+    "Enter a valid phone number":"Enter a valid phone number",
+    "Update":"Update",
+    "Settings":"Settings",
+    "Notification":"Notification",
+    "Help Center":"Help Center",
+    "Log out":"Log out",
+    "phone-number-placeholder":"Enter your phone number",
+    "phone-number-required":"Enter a valid phone number",
+    "PhoneNumber":"PhoneNumber",
+
+"__COMMENT ShippingAddressScreen":"This is language Screen Word",
+   "No address pls add some ...":"No address pls add some ...",
+   "ADD NEW ADDRESS":"ADD NEW ADDRESS",
+   "UPDATE THE ADDRESS":"UPDATE THE ADDRESS",
+   "__COMMENT AddAddressModal":"This is language Screen Word",
+   "address-name-placeholder":"Enter your address name",
+   "street-name-placeholder":"Enter your street name",
+   "house-number-placeholder":"Enter your house number",
+   "Submit":"Submit",
+   "Select city":"Select city",
+   "Select state":"Select state",
+   "Select country":"Select country",
+
+
+"__COMMENT ProfileScreen":"This is language Screen Word",
+   "My Orders":"My Orders",
+   "Shipping Address":"Shipping Address",
+    "Payment method":"Payment method",
+    "FAQs":"FAQs",
+    "Privacy Policy":"Privacy Policy",
+
+"__COMMENT BottomNavigationName":"This is language Screen Word",
+ 
+    "Home":"Home",
+    "Cart":"Cart",
+    "Profile":"Profile"
+}
